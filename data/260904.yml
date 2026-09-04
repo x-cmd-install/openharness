@@ -7,7 +7,7 @@ about:
   head: 2a7b7b8
   archived: false
   latestVersion: v2.39.0
-  collectedAt: 2026-09-04T19:35:54Z
+  collectedAt: 2026-09-04T20:54:50Z
 timeline:
   created: 2026-03-31
   lastCommit: 2026-05-12
@@ -83,5 +83,63 @@ total:
   openIssue: 4
   commit: 389
 ---
+path: /home/runner/.x-repo/github.com/zhijiewong/openharness
+collectedAt: 2026-09-04T20:54:52Z
+loc:
+  TypeScript:
+    code: 46980
+    comments: 5916
+    blanks: 5958
+    files: 355
+  Json:
+    code: 5568
+    comments: 0
+    blanks: 3
+    files: 14
+  Tsx:
+    code: 3652
+    comments: 283
+    blanks: 322
+    files: 18
+  Python:
+    code: 2377
+    comments: 93
+    blanks: 452
+    files: 22
+  JavaScript:
+    code: 472
+    comments: 114
+    blanks: 56
+    files: 7
+  Sh:
+    code: 257
+    comments: 92
+    blanks: 6
+    files: 17
+  Toml:
+    code: 68
+    comments: 1
+    blanks: 10
+    files: 1
+  Yaml:
+    code: 34
+    comments: 23
+    blanks: 5
+    files: 2
+  Svg:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 17774
+    blanks: 5457
+    files: 66
+total:
+  code: 61518
+  comments: 24570
+  blanks: 12432
+  files: 504
 ---
 
