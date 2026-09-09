@@ -146,4 +146,3 @@ total:
 ---
 
 ---
-{"id":317688782,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOR2A0W84S74vO","tag_name":"v2.39.0","target_commitish":"main","name":"v2.39.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-05-05T08:56:28Z","updated_at":"2026-05-05T08:58:37Z","published_at":"2026-05-05T08:58:37Z","assets":[],"body":"## What's Changed\n* feat(traces): /traces flame-graph view (Tier 3) by @zhijiewong in https://github.com/zhijiewong/openharness/pull/118\n\n\n**Full Changelog**: https://github.com/zhijiewong/openharness/compare/v2.38.0...v2.39.0","mentions_count":1}
