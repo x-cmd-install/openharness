@@ -12,6 +12,18 @@ Open source local terminal cli with any LLM
 x install openharness
 ```
 
+## Code insight
+
+Total: **59,410** lines of code across **416** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| TypeScript | 46,980 | 5,916 | 5,958 | 355 |
+| Json | 5,568 | 0 | 3 | 14 |
+| Tsx | 3,652 | 283 | 322 | 18 |
+| Python | 2,377 | 93 | 452 | 22 |
+| JavaScript | 472 | 114 | 56 | 7 |
+
 ## Source
 
 - **Upstream**: <https://github.com/zhijiewong/openharness>
@@ -35,21 +47,12 @@ x install openharness
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 2 | 0 |
-| 360d | 2025-09-15 | 49 | 115 | 0 | 11 | 4 | 386 |
-
-## Code size
-
-Total: **59,410** lines of code across **416** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| TypeScript | 46,980 | 5,916 | 5,958 | 355 |
-| Json | 5,568 | 0 | 3 | 14 |
-| Tsx | 3,652 | 283 | 322 | 18 |
-| Python | 2,377 | 93 | 452 | 22 |
-| JavaScript | 472 | 114 | 56 | 7 |
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-06-13 | 0 | 0 | 0 | 0 | 2 | 0 |
+| last180d | 2026-03-15 | 49 | 115 | 0 | 11 | 4 | 386 |
+| 360d | 2025-09-16 | 49 | 115 | 0 | 11 | 4 | 386 |
+| last720d | 2024-09-21 | 49 | 115 | 0 | 11 | 4 | 389 |
 
 ## Improve this data
 
@@ -60,4 +63,4 @@ Install metadata for openharness lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:42:08Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:10:05Z._
