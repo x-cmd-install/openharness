@@ -47,12 +47,12 @@ Total: **59,410** lines of code across **416** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-15 | 0 | 0 | 0 | 0 | 2 | 0 |
-| last180d | 2026-03-17 | 49 | 115 | 0 | 11 | 4 | 386 |
-| 360d | 2025-09-18 | 49 | 115 | 0 | 11 | 4 | 386 |
-| last720d | 2024-09-23 | 49 | 115 | 0 | 11 | 4 | 389 |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-16 | 0 | 0 | 0 | 0 | 2 | 0 |
+| last180d | 2026-03-18 | 49 | 115 | 0 | 11 | 4 | 386 |
+| 360d | 2025-09-19 | 49 | 115 | 0 | 11 | 4 | 386 |
+| last720d | 2024-09-24 | 49 | 115 | 0 | 11 | 4 | 389 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for openharness lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:38:22Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:46:43Z._
