@@ -37,22 +37,22 @@ Total: **59,410** lines of code across **416** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 100 · **Forks**: 21 · **Open issues**: 16 · **Contributors**: 3
+- **Stars**: 100 · **Forks**: 21 · **Open issues**: 17 · **Contributors**: 3
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 115 · **Open PRs**: 1 · **Closed issues**: 11 · **Open issues**: 5 · **Commits**: 389
+- **Releases**: 49 · **Merged PRs**: 115 · **Open PRs**: 1 · **Closed issues**: 11 · **Open issues**: 6 · **Commits**: 389
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-08-25 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-07-26 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last180d | 2026-04-27 | 21 | 46 | 1 | 1 | 4 | 74 |
-| 360d | 2025-10-29 | 49 | 115 | 1 | 11 | 5 | 386 |
-| last720d | 2024-11-03 | 49 | 115 | 1 | 11 | 5 | 389 |
+| 30d | 2026-09-25 | 0 | 0 | 0 | 0 | 2 | 0 |
+| last60d | 2026-08-26 | 0 | 0 | 0 | 0 | 2 | 0 |
+| 90d | 2026-07-27 | 0 | 0 | 1 | 0 | 2 | 0 |
+| last180d | 2026-04-28 | 18 | 44 | 1 | 1 | 5 | 35 |
+| 360d | 2025-10-30 | 49 | 115 | 1 | 11 | 6 | 386 |
+| last720d | 2024-11-04 | 49 | 115 | 1 | 11 | 6 | 389 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for openharness lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T04:27:12Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T04:32:17Z._
